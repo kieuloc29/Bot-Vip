@@ -20,7 +20,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "fbstate.json",
+    "APPSTATEPATH": "appstate.json",
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
@@ -34,7 +34,7 @@
         "maxColumn": 10
     },
     "daily": {
-        "cooldownTime": 300000,
+        "cooldownTime": 7200000,
         "rewardCoin": 1000
     },
     "help": {
